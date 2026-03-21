@@ -1,1 +1,32 @@
-
+{
+  "killington": {
+    "name": "Killington",
+    "state": "Vermont",
+    "trails": 155,
+    "peaks": 6,
+    "total_lifts": 19,
+    "summit_elevation": 4241,
+    "base_elevation": 1165,
+    "vertical_drop": 3050,
+    "skiable_top": 4215,
+    "skiable_acres": 1509,
+    "snowfall_avg": 250,
+    "season_start": "Nov",
+    "season_end": "Apr",
+    "season_note": "Longest season in East",
+    "night_skiing": false,
+    "tubing": true,
+    "terrain_easy": 17,
+    "terrain_more": 40,
+    "terrain_advanced": 33,
+    "terrain_expert": 10,
+    "freestyle_parks": 9,
+    "glades_acres": 113,
+    "lifts_gondola": 3,
+    "lifts_sixpack": 2,
+    "lifts_quad": 9,
+    "lifts_triple": 2,
+    "lifts_double": 1,
+    "lifts_surface": 2
+  }
+}
