@@ -28,7 +28,7 @@
         "lifts_triple": 1,
         "lifts_double": 5,
         "lifts_surface": 3,
-        "weekday_hours_open": 9,
+        "weekday_hours_open": 8,
         "weekday_hours_close": 16,
         "weekend_hours_open": 8,
         "weekend_hours_close": 16
