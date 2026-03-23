@@ -60,7 +60,7 @@
         "lifts_sixpack": 2,
         "lifts_quad": 9,
         "lifts_triple": 2,
-        "lifts_double": 0,
+        "lifts_double": 1,
         "lifts_surface": 2,
         "weekday_hours_open": 9,
         "weekday_hours_close": 16,
