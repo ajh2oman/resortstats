@@ -1,4 +1,45 @@
 {
+    "mohawk_mountain": {
+        "name": "Mohawk Mountain",
+        "state": "Connecticut",
+        "trails": 26,
+        "peaks": 1,
+        "total_lifts": 8,
+        "summit_elevation": 1600,
+        "base_elevation": 950,
+        "vertical_drop": 650,
+        "skiable_top": 1600,
+        "skiable_acres": 112,
+        "snowfall_avg": 55,
+        "season_start": "Dec",
+        "season_end": "Mar",
+        "season_note": "Snowmaking critical",
+        "night_skiing": true,
+        "tubing": false,
+        "terrain_easy": 20,
+        "terrain_more": 60,
+        "terrain_advanced": 20,
+        "terrain_expert": 0,
+        "freestyle_parks": 2,
+        "glades_acres": 10,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 0,
+        "lifts_triple": 5,
+        "lifts_double": 0,
+        "lifts_surface": 3,
+        "hours": {
+            "monday": {"open": 12, "close": 20},
+            "tuesday": {"open": 10, "close": 20},
+            "wednesday": {"open": 10, "close": 20},
+            "thursday": {"open": 10, "close": 20},
+            "friday": {"open": 10, "close": 21.5},
+            "saturday": {"open": 8.5, "close": 21.5},
+            "sunday": {"open": 8.5, "close": 16}
+            }
+    }
+}
+{
     "sugarloaf": {
         "name": "Sugarloaf",
         "state": "Maine",
@@ -15,6 +56,7 @@
         "season_end": "Apr",
         "season_note": "Best late winter",
         "night_skiing": false,
+        "night_skiing_note": "Test",
         "tubing": false,
         "terrain_easy": 22,
         "terrain_more": 32,
@@ -27,11 +69,15 @@
         "lifts_quad": 6,
         "lifts_triple": 1,
         "lifts_double": 5,
-        "lifts_surface": 3,
-        "weekday_hours_open": 8,
-        "weekday_hours_close": 16,
-        "weekend_hours_open": 8,
-        "weekend_hours_close": 16
+        "hours": {
+            "monday": {"open": 8.5, "close": 16},
+            "tuesday": {"open": 8.5, "close": 16},
+            "wednesday": {"open": 8.5, "close": 16},
+            "thursday": {"open": 8.5, "close": 16},
+            "friday": {"open": 8.5, "close": 16},
+            "saturday": {"open": 8.5, "close": 16},
+            "sunday": {"open": 8.5, "close": 16}
+            }
     },
     "killington": {
         "name": "Killington",
@@ -62,9 +108,13 @@
         "lifts_triple": 2,
         "lifts_double": 1,
         "lifts_surface": 2,
-        "weekday_hours_open": 9,
-        "weekday_hours_close": 16,
-        "weekend_hours_open": 8,
-        "weekend_hours_close": 16
-    }
+         "hours": {
+            "monday": {"open": 9, "close": 16},
+            "tuesday": {"open": 9, "close": 16},
+            "wednesday": {"open": 9, "close": 16},
+            "thursday": {"open": 9, "close": 16},
+            "friday": {"open": 9, "close": 16},
+            "saturday": {"open": 8, "close": 16},
+            "sunday": {"open": 8, "close": 16}
+            }
 }
