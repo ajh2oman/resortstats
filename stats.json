@@ -214,7 +214,7 @@
     "bigrock": {
         "name": "Bigrock Mountain",
         "state": "Maine",
-        "conditions_key": "BIGROCK MOUNTAIN",
+        "conditions_key": "BIGROCK",
         "trails": 28,
         "peaks": 1,
         "total_lifts": 4,
