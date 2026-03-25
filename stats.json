@@ -70,8 +70,8 @@
         "lifts_gondola": 0,
         "lifts_sixpack": 0,
         "lifts_quad": 0,
-        "lifts_triple": 5,
-        "lifts_double": 0,
+        "lifts_triple": 2,
+        "lifts_double": 2,
         "lifts_surface": 3,
         "hours": {
             "monday":    { "open": 9,  "close": 21   },
