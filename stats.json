@@ -2,6 +2,7 @@
     "mohawkmountain": {
         "name": "Mohawk Mountain",
         "state": "Connecticut",
+        "conditions_key": "MOHAWK MOUNTAIN",
         "trails": 26,
         "peaks": 1,
         "total_lifts": 8,
@@ -15,6 +16,7 @@
         "season_end": "Mar",
         "season_note": "Snowmaking critical",
         "night_skiing": true,
+        "night_skiing_note": "",
         "tubing": false,
         "terrain_easy": 20,
         "terrain_more": 60,
@@ -29,19 +31,19 @@
         "lifts_double": 0,
         "lifts_surface": 3,
         "hours": {
-            "monday": {"open": 12, "close": 20},
-            "tuesday": {"open": 10, "close": 20},
-            "wednesday": {"open": 10, "close": 20},
-            "thursday": {"open": 10, "close": 20},
-            "friday": {"open": 10, "close": 21.5},
-            "saturday": {"open": 8.5, "close": 21.5},
-            "sunday": {"open": 8.5, "close": 16}
-            }
+            "monday":    { "open": 12,  "close": 20   },
+            "tuesday":   { "open": 10,  "close": 20   },
+            "wednesday": { "open": 10,  "close": 20   },
+            "thursday":  { "open": 10,  "close": 20   },
+            "friday":    { "open": 10,  "close": 21.5 },
+            "saturday":  { "open": 8.5, "close": 21.5 },
+            "sunday":    { "open": 8.5, "close": 16   }
+        }
     },
-    {
     "sugarloaf": {
         "name": "Sugarloaf",
         "state": "Maine",
+        "conditions_key": "SUGARLOAF",
         "trails": 176,
         "peaks": 2,
         "total_lifts": 15,
@@ -68,19 +70,21 @@
         "lifts_quad": 6,
         "lifts_triple": 1,
         "lifts_double": 5,
+        "lifts_surface": 0,
         "hours": {
-            "monday": {"open": 8.5, "close": 16},
-            "tuesday": {"open": 8.5, "close": 16},
-            "wednesday": {"open": 8.5, "close": 16},
-            "thursday": {"open": 8.5, "close": 16},
-            "friday": {"open": 8.5, "close": 16},
-            "saturday": {"open": 8.5, "close": 16},
-            "sunday": {"open": 8.5, "close": 16}
-            }
+            "monday":    { "open": 8.5, "close": 16 },
+            "tuesday":   { "open": 8.5, "close": 16 },
+            "wednesday": { "open": 8.5, "close": 16 },
+            "thursday":  { "open": 8.5, "close": 16 },
+            "friday":    { "open": 8.5, "close": 16 },
+            "saturday":  { "open": 8.5, "close": 16 },
+            "sunday":    { "open": 8.5, "close": 16 }
+        }
     },
     "killington": {
         "name": "Killington",
         "state": "Vermont",
+        "conditions_key": "KILLINGTON",
         "trails": 155,
         "peaks": 6,
         "total_lifts": 19,
@@ -94,6 +98,7 @@
         "season_end": "Apr",
         "season_note": "Longest season in East",
         "night_skiing": false,
+        "night_skiing_note": "",
         "tubing": true,
         "terrain_easy": 17,
         "terrain_more": 40,
@@ -107,13 +112,14 @@
         "lifts_triple": 2,
         "lifts_double": 1,
         "lifts_surface": 2,
-         "hours": {
-            "monday": {"open": 9, "close": 16},
-            "tuesday": {"open": 9, "close": 16},
-            "wednesday": {"open": 9, "close": 16},
-            "thursday": {"open": 9, "close": 16},
-            "friday": {"open": 9, "close": 16},
-            "saturday": {"open": 8, "close": 16},
-            "sunday": {"open": 8, "close": 16}
-            }
+        "hours": {
+            "monday":    { "open": 9, "close": 16 },
+            "tuesday":   { "open": 9, "close": 16 },
+            "wednesday": { "open": 9, "close": 16 },
+            "thursday":  { "open": 9, "close": 16 },
+            "friday":    { "open": 9, "close": 16 },
+            "saturday":  { "open": 8, "close": 16 },
+            "sunday":    { "open": 8, "close": 16 }
+        }
+    }
 }
