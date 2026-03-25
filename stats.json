@@ -84,6 +84,48 @@
         }
     },
 
+      "powderridge": {
+        "name": "Powder Ridge",
+        "state": "Connecticut",
+        "conditions_key": "POWDER RIDGE",
+        "trails": 20,
+        "peaks": 1,
+        "total_lifts": 7,
+        "summit_elevation": 756,
+        "base_elevation": 256,
+        "vertical_drop": 500,
+        "skiable_top": 756,
+        "skiable_acres": 75,
+        "snowfall_avg": 45,
+        "season_start": "Dec",
+        "season_end": "Mar",
+        "season_note": "Snowmaking critical",
+        "night_skiing": true,
+        "night_skiing_note": "13 Trails",
+        "tubing": false,
+        "terrain_easy": 11,
+        "terrain_more": 75,
+        "terrain_advanced": 14,
+        "terrain_expert": 0,
+        "freestyle_parks": 2,
+        "glades_acres": 0,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 0,
+        "lifts_triple": 2,
+        "lifts_double": 2,
+        "lifts_surface": 3,
+        "hours": {
+            "monday":    { "open": 9,  "close": 21   },
+            "tuesday":   { "open": 9,  "close": 21   },
+            "wednesday": { "open": 9,  "close": 21  },
+            "thursday":  { "open": 9,  "close": 21  },
+            "friday":    { "open": 9,  "close": 21 },
+            "saturday":  { "open": 8.5, "close": 22 },
+            "sunday":    { "open": 9,  "close": 21  }
+        }
+    },
+
     "sugarloaf": {
         "name": "Sugarloaf",
         "state": "Maine",
