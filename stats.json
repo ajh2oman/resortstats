@@ -252,6 +252,48 @@
             "sunday":    { "open": 9,  "close": 16  }
         }
     },
+
+    "blackmtnme": {
+        "name": "Bigrock Mountain",
+        "state": "Maine",
+        "conditions_key": "BLACK MOUNTAIN ME",
+        "trails": 30,
+        "peaks": 2,
+        "total_lifts": 4,
+        "summit_elevation": 2354,
+        "base_elevation": 900,
+        "vertical_drop": 1380,
+        "skiable_top": 2280,
+        "skiable_acres": 600,
+        "snowfall_avg": 120,
+        "season_start": "Dec",
+        "season_end": "Apr",
+        "season_note": "Matural Snow & Snowmaking",
+        "night_skiing": true,
+        "night_skiing_note": "12 Trails",
+        "tubing": true,
+        "terrain_easy": 12,
+        "terrain_more": 34,
+        "terrain_advanced": 28,
+        "terrain_expert": 16,
+        "freestyle_parks": 1,
+        "glades_acres": 45,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 0,
+        "lifts_triple": 1,
+        "lifts_double": 1,
+        "lifts_surface": 2,
+        "hours": {
+            "monday":    { "closed": true },
+            "tuesday":   { "closed": true },
+            "wednesday": { "open": 17,  "close": 21  },
+            "thursday":  { "open": 9,  "close": 16  },
+            "friday":    { "open": 14,  "close": 16 },
+            "saturday":  { "open": 9, "close": 16 },
+            "sunday":    { "open": 9,  "close": 16  }
+        }
+    },
     
     "sugarloaf": {
         "name": "Sugarloaf",
