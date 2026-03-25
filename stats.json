@@ -327,13 +327,13 @@
         "lifts_double": 0,
         "lifts_surface": 2,
         "hours": {
-            "monday":    { "open": 9, "close": 9 },
-            "tuesday":   { "open": 9, "close": 9,
-            "wednesday": { "open": 9, "close": 9 },
-            "thursday":  { "open": 9, "close": 9 },
-            "friday":    { "open": 9, "close": 9 },
-            "saturday":  { "open": 8.5, "close": 9 },
-            "sunday":    { "open": 8.5, "close": 9 }
+            "monday":    { "open": 9, "close": 21 },
+            "tuesday":   { "open": 9, "close": 21 },
+            "wednesday": { "open": 9, "close": 21 },
+            "thursday":  { "open": 9, "close": 21 },
+            "friday":    { "open": 9, "close": 21 },
+            "saturday":  { "open": 8.5, "close": 21 },
+            "sunday":    { "open": 8.5, "close": 16 }
         }
     },
     
