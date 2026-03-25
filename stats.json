@@ -39,7 +39,7 @@
             "saturday":  { "open": 8.5, "close": 21.5 },
             "sunday":    { "open": 8.5, "close": 16   }
         }
-    }
+    
     },
     "sugarloaf": {
         "name": "Sugarloaf",
