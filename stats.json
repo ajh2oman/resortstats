@@ -1,46 +1,6 @@
 {
-    "mohawkmountain": {
-        "name": "Mohawk Mountain",
-        "state": "Connecticut",
-        "conditions_key": "MOHAWK MOUNTAIN",
-        "trails": 26,
-        "peaks": 1,
-        "total_lifts": 8,
-        "summit_elevation": 1600,
-        "base_elevation": 950,
-        "vertical_drop": 650,
-        "skiable_top": 1600,
-        "skiable_acres": 112,
-        "snowfall_avg": 55,
-        "season_start": "Dec",
-        "season_end": "Mar",
-        "season_note": "Snowmaking critical",
-        "night_skiing": true,
-        "night_skiing_note": "",
-        "tubing": false,
-        "terrain_easy": 20,
-        "terrain_more": 60,
-        "terrain_advanced": 20,
-        "terrain_expert": 0,
-        "freestyle_parks": 2,
-        "glades_acres": 10,
-        "lifts_gondola": 0,
-        "lifts_sixpack": 0,
-        "lifts_quad": 0,
-        "lifts_triple": 5,
-        "lifts_double": 0,
-        "lifts_surface": 3,
-        "hours": {
-            "monday":    { "open": 12,  "close": 20   },
-            "tuesday":   { "open": 10,  "close": 20   },
-            "wednesday": { "open": 10,  "close": 20   },
-            "thursday":  { "open": 10,  "close": 20   },
-            "friday":    { "open": 10,  "close": 21.5 },
-            "saturday":  { "open": 8.5, "close": 21.5 },
-            "sunday":    { "open": 8.5, "close": 16   }
-        }
     
-    },
+
     "sugarloaf": {
         "name": "Sugarloaf",
         "state": "Maine",
