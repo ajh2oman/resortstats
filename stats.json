@@ -126,6 +126,49 @@
         }
     },
 
+    
+      "sundown": {
+        "name": "Ski Sundown",
+        "state": "Connecticut",
+        "conditions_key": "SKI SUNDOWN",
+        "trails": 17,
+        "peaks": 1,
+        "total_lifts": 5,
+        "summit_elevation": 1075,
+        "base_elevation": 450,
+        "vertical_drop": 625,
+        "skiable_top": 1075,
+        "skiable_acres": 70,
+        "snowfall_avg": 50,
+        "season_start": "Dec",
+        "season_end": "Mar",
+        "season_note": "Snowmaking critical",
+        "night_skiing": true,
+        "night_skiing_note": "15 Trails",
+        "tubing": false,
+        "terrain_easy": 53,
+        "terrain_more": 23,
+        "terrain_advanced": 24,
+        "terrain_expert": 0,
+        "freestyle_parks": 3,
+        "glades_acres": 0,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 1,
+        "lifts_triple": 2,
+        "lifts_double": 0,
+        "lifts_surface": 2,
+        "hours": {
+            "monday":    { "open": 9,  "close": 22   },
+            "tuesday":   { "open": 9,  "close": 22   },
+            "wednesday": { "open": 9,  "close": 22  },
+            "thursday":  { "open": 9,  "close": 22  },
+            "friday":    { "open": 9,  "close": 22 },
+            "saturday":  { "open": 8, "close": 22 },
+            "sunday":    { "open": 8,  "close": 22  }
+        }
+    },
+    
     "sugarloaf": {
         "name": "Sugarloaf",
         "state": "Maine",
