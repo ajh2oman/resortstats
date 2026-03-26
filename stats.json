@@ -591,6 +591,49 @@
                 "sunday":    { "open": 8,  "close": 16  }
             }
         },
+
+    "jay": {
+        "name": "Jay Peak",
+        "state": "Vermont",
+        "conditions_key": "JAY PEAK",
+        "trails": 81,
+        "peaks": 2,
+        "total_lifts": 9,
+        "summit_elevation": 3862,
+        "base_elevation": 1170,
+        "vertical_drop": 2122,
+        "skiable_top": 3862,
+        "skiable_acres": 385,
+        "snowfall_avg": 347,
+        "season_start": "Nov",
+        "season_end": "May",
+        "season_note": "Most Natural Snow",
+        "night_skiing": false,
+        "night_skiing_note": "",
+        "tubing": false,
+        "terrain_easy": 20,
+        "terrain_more": 40,
+        "terrain_advanced": 35,
+        "terrain_expert": 5,
+        "freestyle_parks": 4,
+        "glades_acres": 110,
+        "lifts_tram": 1,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 4,
+        "lifts_triple": 1,
+        "lifts_double": 1,
+        "lifts_surface": 2,
+        "hours": {
+            "monday":    { "open": 8.5, "close": 16 },
+            "tuesday":   { "open": 8.5, "close": 16 },
+            "wednesday": { "open": 8.5, "close": 16 },
+            "thursday":  { "open": 8.5, "close": 16 },
+            "friday":    { "open": 8.5, "close": 16 },
+            "saturday":  { "open": 8, "close": 16 },
+            "sunday":    { "open": 8, "close": 16 }
+        }
+    },
     
     "killington": {
         "name": "Killington",
