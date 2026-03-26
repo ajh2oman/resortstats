@@ -674,6 +674,92 @@
             "saturday":  { "open": 8, "close": 16 },
             "sunday":    { "open": 8, "close": 16 }
         }
+    },
+
+    
+    "stratton": {
+        "name": "Stratton",
+        "state": "Vermont",
+        "conditions_key": "STRATTON",
+        "trails": 99,
+        "peaks": 1,
+        "total_lifts": 14,
+        "summit_elevation": 3875,
+        "base_elevation": 1872,
+        "vertical_drop": 2003,
+        "skiable_top": 3875,
+        "skiable_acres": 670,
+        "snowfall_avg": 180,
+        "season_start": "Nov",
+        "season_end": "Apr",
+        "season_note": "Well Groomed",
+        "night_skiing": false,
+        "night_skiing_note": "",
+        "tubing": true,
+        "terrain_easy": 40,
+        "terrain_more": 35,
+        "terrain_advanced": 16,
+        "terrain_expert": 9,
+        "freestyle_parks": 5,
+        "glades_acres": 160,
+        "lifts_gondola": 1,
+        "lifts_sixpack": 4,
+        "lifts_quad": 3,
+        "lifts_triple": 1,
+        "lifts_double": 1,
+        "lifts_surface": 4,
+        "hours": {
+            "monday":    { "open": 9, "close": 16 },
+            "tuesday":   { "open": 9, "close": 16 },
+            "wednesday": { "open": 9, "close": 16 },
+            "thursday":  { "open": 9, "close": 16 },
+            "friday":    { "open": 9, "close": 16 },
+            "saturday":  { "open": 8.5, "close": 16 },
+            "sunday":    { "open": 8.5, "close": 16 }
+        }
+    },
+
+    
+    "sugarbush": {
+        "name": "Sugarbush"
+        "state": "Vermont",
+        "conditions_key": "SUGARBUSH",
+        "trails": 116,
+        "peaks": 2,
+        "total_lifts": 12,
+        "summit_elevation": 4395,
+        "base_elevation": 1265,
+        "vertical_drop": 2360,
+        "skiable_top": 3625,
+        "skiable_acres": 485,
+        "snowfall_avg": 314,
+        "season_start": "Nov",
+        "season_end": "Apr",
+        "season_note": "Mostly Natural Snow",
+        "night_skiing": false,
+        "night_skiing_note": "",
+        "tubing": true,
+        "terrain_easy": 16,
+        "terrain_more": 55,
+        "terrain_advanced": 21,
+        "terrain_expert": 8,
+        "freestyle_parks": 9,
+        "glades_acres": 70,
+        "lifts_gondola": 2,
+        "lifts_sixpack": 1,
+        "lifts_quad": 4,
+        "lifts_triple": 1,
+        "lifts_double": 2,
+        "lifts_surface": 2,
+        "hours": {
+            "monday":    { "open": 8, "close": 16 },
+            "tuesday":   { "open": 8, "close": 16 },
+            "wednesday": { "open": 8, "close": 16 },
+            "thursday":  { "open": 8, "close": 16 },
+            "friday":    { "open": 8, "close": 16 },
+            "saturday":  { "open": 8, "close": 16 },
+            "sunday":    { "open": 8, "close": 16 }
+        }
     }
 }
 
