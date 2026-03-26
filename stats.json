@@ -634,6 +634,49 @@
             "sunday":    { "open": 8.5, "close": 16 }
         }
     },
+
+    "boltonvalley": {
+        "name": "Bolton Valley",
+        "state": "Vermont",
+        "conditions_key": "BOLTON VALLEY",
+        "trails": 71,
+        "peaks": 3,
+        "total_lifts": 6,
+        "summit_elevation": 3268,
+        "base_elevation": 1426,
+        "vertical_drop": 1704,
+        "skiable_top": 3130,
+        "skiable_acres": 300,
+        "snowfall_avg": 312,
+        "season_start": "Nov",
+        "season_end": "Apr",
+        "season_note": "Mostly Natural Snow",
+        "night_skiing": true,
+        "night_skiing_note": "10 Trails",
+        "tubing": false,
+        "terrain_easy": 34,
+        "terrain_more": 38,
+        "terrain_advanced": 20,
+        "terrain_expert": 8,
+        "freestyle_parks": 3,
+        "glades_acres": 135,
+        "lifts_tram": 0,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 2,
+        "lifts_triple": 0,
+        "lifts_double": 3,
+        "lifts_surface": 1,
+        "hours": {
+            "monday":    { "open": 9, "close": 16 },
+            "tuesday":   { "open": 9, "close": 22 },
+            "wednesday": { "open": 9, "close": 22 },
+            "thursday":  { "open": 9, "close": 22 },
+            "friday":    { "open": 9, "close": 22 },
+            "saturday":  { "open": 9, "close": 22 },
+            "sunday":    { "open": 9, "close": 16 }
+        }
+    },
     
     "burke": {
         "name": "Burke",
