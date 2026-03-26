@@ -295,6 +295,48 @@
         }
     },
 
+    "camdensb": {
+        "name": "Camden Snow Bowl",
+        "state": "Maine",
+        "conditions_key": "CAMDEN SNOW BOWL",
+        "trails": 26,
+        "peaks": 1,
+        "total_lifts": 3,
+        "summit_elevation": 1303,
+        "base_elevation": 220,
+        "vertical_drop": 850,
+        "skiable_top": 1070,
+        "skiable_acres": 600,
+        "snowfall_avg": 60,
+        "season_start": "Dec",
+        "season_end": "Mar",
+        "season_note": "Best in February",
+        "night_skiing": true,
+        "night_skiing_note": "5 Trails",
+        "tubing": false,
+        "terrain_easy": 20,
+        "terrain_more": 50,
+        "terrain_advanced": 25,
+        "terrain_expert": 5,
+        "freestyle_parks": 1,
+        "glades_acres": 45,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 0,
+        "lifts_triple": 1,
+        "lifts_double": 1,
+        "lifts_surface": 1,
+        "hours": {
+            "monday":    { "closed": true },
+            "tuesday":   { "closed": true },
+            "wednesday": { "open": 10,  "close": 19  },
+            "thursday":  { "open": 10,  "close": 19  },
+            "friday":    { "open": 10,  "close": 19 },
+            "saturday":  { "open": 9, "close": 16 },
+            "sunday":    { "open": 9,  "close": 16  }
+        }
+    },
+    
     "pleasantmtn": {
         "name": "Pleasant Mountain",
         "state": "Maine",
