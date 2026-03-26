@@ -336,6 +336,48 @@
             "sunday":    { "open": 9,  "close": 16  }
         }
     },
+
+    "mtabram": {
+        "name": "Mount Abram",
+        "state": "Maine",
+        "conditions_key": "MOUNT ABRAM",
+        "trails": 42,
+        "peaks": 1,
+        "total_lifts": 4,
+        "summit_elevation": 2250,
+        "base_elevation": 1000,
+        "vertical_drop": 1150,
+        "skiable_top": 2150,
+        "skiable_acres": 450,
+        "snowfall_avg": 60,
+        "season_start": "Dec",
+        "season_end": "Mar",
+        "season_note": "Best in February",
+        "night_skiing": true,
+        "night_skiing_note": "8 Trails",
+        "tubing": true,
+        "terrain_easy": 30,
+        "terrain_more": 42,
+        "terrain_advanced": 20,
+        "terrain_expert": 8,
+        "freestyle_parks": 3,
+        "glades_acres": 50,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 0,
+        "lifts_triple": 0,
+        "lifts_double": 2,
+        "lifts_surface": 2,
+        "hours": {
+            "monday":    { "closed": true },
+            "tuesday":   { "closed": true },
+            "wednesday": { "closed": true },
+            "thursday":  { "open": 9,  "close": 16  },
+            "friday":    { "open": 9,  "close": 16 },
+            "saturday":  { "open": 9, "close": 16 },
+            "sunday":    { "open": 9,  "close": 16  }
+        }
+    },
     
     "pleasantmtn": {
         "name": "Pleasant Mountain",
