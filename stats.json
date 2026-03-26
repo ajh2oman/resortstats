@@ -721,7 +721,7 @@
 
     
     "sugarbush": {
-        "name": "Sugarbush"
+        "name": "Sugarbush",
         "state": "Vermont",
         "conditions_key": "SUGARBUSH",
         "trails": 116,
