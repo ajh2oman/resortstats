@@ -632,6 +632,48 @@
             "saturday":  { "open": 8, "close": 16 },
             "sunday":    { "open": 8, "close": 16 }
         }
+    },
+
+    "stowe": {
+        "name": "Stowe",
+        "state": "Vermont",
+        "conditions_key": "STOWE",
+        "trails": 116,
+        "peaks": 2,
+        "total_lifts": 12,
+        "summit_elevation": 4395,
+        "base_elevation": 1265,
+        "vertical_drop": 2360,
+        "skiable_top": 3625,
+        "skiable_acres": 485,
+        "snowfall_avg": 314,
+        "season_start": "Nov",
+        "season_end": "Apr",
+        "season_note": "Mostly Natural Snow",
+        "night_skiing": false,
+        "night_skiing_note": "",
+        "tubing": true,
+        "terrain_easy": 16,
+        "terrain_more": 55,
+        "terrain_advanced": 21,
+        "terrain_expert": 8,
+        "freestyle_parks": 9,
+        "glades_acres": 113,
+        "lifts_gondola": 3,
+        "lifts_sixpack": 2,
+        "lifts_quad": 9,
+        "lifts_triple": 2,
+        "lifts_double": 1,
+        "lifts_surface": 2,
+        "hours": {
+            "monday":    { "open": 9, "close": 16 },
+            "tuesday":   { "open": 9, "close": 16 },
+            "wednesday": { "open": 9, "close": 16 },
+            "thursday":  { "open": 9, "close": 16 },
+            "friday":    { "open": 9, "close": 16 },
+            "saturday":  { "open": 8, "close": 16 },
+            "sunday":    { "open": 8, "close": 16 }
+        }
     }
 }
 
