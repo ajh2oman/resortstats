@@ -634,6 +634,47 @@
         }
     },
 
+     "pico": {
+        "name": "Pico",
+        "state": "Vermont",
+        "conditions_key": "PICO",
+        "trails": 58,
+        "peaks": 3,
+        "total_lifts": 7,
+        "summit_elevation": 3967,
+        "base_elevation": 2000,
+        "vertical_drop": 1967,
+        "skiable_top": 3967,
+        "skiable_acres": 468,
+        "snowfall_avg": 250,
+        "season_start": "Dec",
+        "season_end": "Apr",
+        "season_note": "Natural & Snowmaking",
+        "night_skiing": false,
+        "night_skiing_note": "",
+        "tubing": false,
+        "terrain_easy": 18,
+        "terrain_more": 46,
+        "terrain_advanced": 30,
+        "terrain_expert": 6,
+        "freestyle_parks": 1,
+        "glades_acres": 60,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 2,
+        "lifts_triple": 2,
+        "lifts_double": 2,
+        "lifts_surface": 1,
+        "hours": {
+            "monday":    { "open": 9, "close": 16 },
+            "tuesday":   { "closed": true },
+            "wednesday": { "closed": true },
+            "thursday":  { "open": 9, "close": 16 },
+            "friday":    { "open": 9, "close": 16 },
+            "saturday":  { "open": 8.5, "close": 16 },
+            "sunday":    { "open": 8.5, "close": 16 }
+        }
+    },
     
     "saskadena": {
         "name": "Saskadena Six",
