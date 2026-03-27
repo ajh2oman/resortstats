@@ -592,6 +592,50 @@
             }
         },
 
+    
+    "yawgoo": {
+        "name": "Yawgoo Valley",
+        "state": "Vermont",
+        "conditions_key": "YAWGOO VALLEY",
+        "trails": 14,
+        "peaks": 1,
+        "total_lifts": 4,
+        "summit_elevation": 345,
+        "base_elevation": 105,
+        "vertical_drop": 200,
+        "skiable_top": 305,
+        "skiable_acres": 36,
+        "snowfall_avg": 30,
+        "season_start": "Dec",
+        "season_end": "Mar",
+        "season_note": "Snowmaking Critical",
+        "night_skiing": true,
+        "night_skiing_note": "100% Area",
+        "tubing": true,
+        "terrain_easy": 30,
+        "terrain_more": 40,
+        "terrain_advanced": 30,
+        "terrain_expert": 0,
+        "freestyle_parks": 1,
+        "glades_acres": 0,
+        "lifts_tram": 0,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 0,
+        "lifts_triple": 0,
+        "lifts_double": 2,
+        "lifts_surface": 2,
+        "hours": {
+            "monday":    { "open": 9, "close": 16 },
+            "tuesday":   { "open": 9, "close": 16 },
+            "wednesday": { "open": 9, "close": 16 },
+            "thursday":  { "open": 9, "close": 16 },
+            "friday":    { "open": 9, "close": 20 },
+            "saturday":  { "open": 9, "close": 20 },
+            "sunday":    { "open": 9, "close": 16 }
+        }
+    },
+    
     "bromley": {
         "name": "Bromley",
         "state": "Vermont",
