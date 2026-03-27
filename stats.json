@@ -829,7 +829,7 @@
         "terrain_more": 35,
         "terrain_advanced": 30,
         "terrain_expert": 15,
-        "freestyle_parks": 10,
+        "freestyle_parks": 1,
         "glades_acres": 1600,
         "lifts_gondola": 0,
         "lifts_sixpack": 0,
