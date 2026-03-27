@@ -891,6 +891,49 @@
             "sunday":    { "open": 8.5, "close": 16 }
         }
     },
+
+    "middleburysb": {
+        "name": "Middlebury Snow Bowl",
+        "state": "Vermont",
+        "conditions_key": "MIDDLEBURY SNOW BOWL",
+        "trails": 28,
+        "peaks": 2,
+        "total_lifts": 4,
+        "summit_elevation": 2800,
+        "base_elevation": 1700,
+        "vertical_drop": 1020,
+        "skiable_top": 2720,
+        "skiable_acres": 600,
+        "snowfall_avg": 150,
+        "season_start": "Dec",
+        "season_end": "Mar",
+        "season_note": "Natural & Snowmaking",
+        "night_skiing": false,
+        "night_skiing_note": "",
+        "tubing": false,
+        "terrain_easy": 21,
+        "terrain_more": 29,
+        "terrain_advanced": 50,
+        "terrain_expert": 0,
+        "freestyle_parks": 1,
+        "glades_acres": 50,
+        "lifts_gondola": 0,
+        "lifts_sixpack": 0,
+        "lifts_quad": 1,
+        "lifts_triple": 2,
+        "lifts_double": 1,
+        "lifts_single": 0,
+        "lifts_surface": 1,
+        "hours": {
+            "monday":    { "closed": true },
+            "tuesday":   { "closed": true },
+            "wednesday": { "open": 9, "close": 21 },
+            "thursday":  { "open": 9, "close": 21 },
+            "friday":    { "open": 9, "close": 21 },
+            "saturday":  { "open": 8.5, "close": 16 },
+            "sunday":    { "open": 8.5, "close": 16 }
+        }
+    },
     
     "mtsnow": {
         "name": "Mount Snow",
