@@ -952,6 +952,51 @@
             }
         },
 
+    "sunapee": {
+            "name": "mount sunapee",
+            "state": "New Hampshire",
+            "conditions_key": "MOUNT SUNAPEE",
+            "trails": 73,
+            "peaks": 3,
+            "total_lifts": 8,
+            "summit_elevation": 2743,
+            "base_elevation": 860,
+            "vertical_drop": 1510,
+            "skiable_top": 2743,
+            "skiable_acres": 233,
+            "snowfall_avg": 100,
+            "season_start": "Nov",
+            "season_end": "Apr",
+            "season_note": "Natural & Snowmaking",
+            "night_skiing": false,
+            "night_skiing_note": "",
+            "tubing": false,
+            "terrain_easy": 29,
+            "terrain_more": 47,
+            "terrain_advanced": 22,
+            "terrain_expert": 16,
+            "freestyle_parks": 8,
+            "glades_acres": 25,
+            "lifts_tram": 0,
+            "lifts_chondola": 0,
+            "lifts_gondola": 0,
+            "lifts_eightpack": 0,
+            "lifts_sixpack": 0,
+            "lifts_quad": 3,
+            "lifts_triple": 2,
+            "lifts_double": 0,
+            "lifts_surface": 3,
+            "hours": {
+                "monday":    { "open": 9,  "close": 16  },
+                "tuesday":   { "open": 9,  "close": 16  },
+                "wednesday": { "open": 9,  "close": 16  },
+                "thursday":  { "open": 9,  "close": 16  },
+                "friday":    { "open": 9,  "close": 16  },
+                "saturday":  { "open": 8,  "close": 16  },
+                "sunday":    { "open": 8,  "close": 16  }
+            }
+        },
+
     
     "yawgoo": {
         "name": "Yawgoo Valley",
