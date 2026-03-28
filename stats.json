@@ -1132,6 +1132,52 @@
                 "sunday":    { "open": 8.5,  "close": 16  }
             }
         },
+
+         "tenney": {
+            "name": "tenney mountain",
+            "state": "New Hampshire",
+            "conditions_key": "TENNEY MOUNTAIN",
+            "trails": 50,
+            "peaks": 2,
+            "total_lifts": 3,
+            "summit_elevation": 2350,
+            "base_elevation": 650,
+            "vertical_drop": 1500,
+            "skiable_top": 2150,
+            "skiable_acres": 130,
+            "snowfall_avg": 95,
+            "season_start": "Dec",
+            "season_end": "Mar",
+            "season_note": "Natural & Snowmaking",
+            "night_skiing": true,
+            "night_skiing_note": "4 Trails",
+            "tubing": true,
+            "terrain_easy": 13,
+            "terrain_more": 56,
+            "terrain_advanced": 31,
+            "terrain_expert": 0,
+            "freestyle_parks": 1,
+            "glades_acres": 25,
+            "lifts_tram": 0,
+            "lifts_chondola": 0,
+            "lifts_gondola": 0,
+            "lifts_eightpack": 0,
+            "lifts_sixpack": 0,
+            "lifts_quad": 0,
+            "lifts_triple": 1,
+            "lifts_double": 1,
+            "lifts_surface": 1,
+            "hours": {
+                "monday":    { "open": 9,  "close": 16  },
+                "tuesday":   { "open": 9,  "close": 16  },
+                "wednesday": { "open": 9,  "close": 16  },
+                "thursday":  { "open": 9,  "close": 19  },
+                "friday":    { "open": 9,  "close": 21  },
+                "saturday":  { "open": 8.5,  "close": 21  },
+                "sunday":    { "open": 8.5,  "close": 16  }
+            }
+        },
+
     
     "yawgoo": {
         "name": "Yawgoo Valley",
