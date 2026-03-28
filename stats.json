@@ -730,7 +730,7 @@
     "cannon": {
             "name": "cannon",
             "state": "New Hampshire",
-            "conditions_key": "CANNON",
+            "conditions_key": "CANNON MOUNTAIN",
             "trails": 98,
             "peaks": 2,
             "total_lifts": 10,
