@@ -862,6 +862,51 @@
             }
         },
 
+    "kingpine": {
+            "name": "king pine",
+            "state": "New Hampshire",
+            "conditions_key": "KING PINE",
+            "trails": 17,
+            "peaks": 1,
+            "total_lifts": 6,
+            "summit_elevation": 850,
+            "base_elevation": 500,
+            "vertical_drop": 350,
+            "skiable_top": 850,
+            "skiable_acres": 50,
+            "snowfall_avg": 95,
+            "season_start": "Dec",
+            "season_end": "Mar",
+            "season_note": "Natural & Snowmaking",
+            "night_skiing": true,
+            "night_skiing_note": "(9 Trails)",
+            "tubing": true,
+            "terrain_easy": 44,
+            "terrain_more": 31,
+            "terrain_advanced": 15,
+            "terrain_expert": 10,
+            "freestyle_parks": 2,
+            "glades_acres": 15,
+            "lifts_tram": 0,
+            "lifts_chondola": 0,
+            "lifts_gondola": 0,
+            "lifts_eightpack": 0,
+            "lifts_sixpack": 0,
+            "lifts_quad": 3,
+            "lifts_triple": 3,
+            "lifts_double": 0,
+            "lifts_surface": 3,
+            "hours": {
+                "monday":    { "open": 10,  "close": 16  },
+                "tuesday":   { "open": 10,  "close": 20  },
+                "wednesday": { "open": 10,  "close": 18  },
+                "thursday":  { "open": 10,  "close": 18  },
+                "friday":    { "open": 10,  "close": 18 },
+                "saturday":  { "open": 9, "close": 18 },
+                "sunday":    { "open": 9,  "close": 18  }
+            }
+        },
+
     
     "yawgoo": {
         "name": "Yawgoo Valley",
