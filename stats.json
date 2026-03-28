@@ -907,6 +907,51 @@
             }
         },
 
+    "loon": {
+            "name": "loon",
+            "state": "New Hampshire",
+            "conditions_key": "LOON",
+            "trails": 73,
+            "peaks": 3,
+            "total_lifts": 14,
+            "summit_elevation": 3065,
+            "base_elevation": 860,
+            "vertical_drop": 2190,
+            "skiable_top": 3050,
+            "skiable_acres": 403,
+            "snowfall_avg": 132,
+            "season_start": "Nov",
+            "season_end": "Apr",
+            "season_note": "Natural & Snowmaking",
+            "night_skiing": false,
+            "night_skiing_note": "",
+            "tubing": true,
+            "terrain_easy": 21,
+            "terrain_more": 55,
+            "terrain_advanced": 22,
+            "terrain_expert": 2,
+            "freestyle_parks": 2,
+            "glades_acres": 80,
+            "lifts_tram": 0,
+            "lifts_chondola": 0,
+            "lifts_gondola": 1,
+            "lifts_eightpack": 1,
+            "lifts_sixpack": 0,
+            "lifts_quad": 5,
+            "lifts_triple": 0,
+            "lifts_double": 4,
+            "lifts_surface": 3,
+            "hours": {
+                "monday":    { "open": 9,  "close": 16  },
+                "tuesday":   { "open": 9,  "close": 16  },
+                "wednesday": { "open": 9,  "close": 16  },
+                "thursday":  { "open": 9,  "close": 16  },
+                "friday":    { "open": 9,  "close": 16  },
+                "saturday":  { "open": 8,  "close": 16  },
+                "sunday":    { "open": 8,  "close": 16  }
+            }
+        },
+
     
     "yawgoo": {
         "name": "Yawgoo Valley",
