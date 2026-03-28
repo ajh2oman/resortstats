@@ -682,6 +682,51 @@
             }
         },
 
+    "bwoods": {
+            "name": "bretton woods",
+            "state": "New Hampshire",
+            "conditions_key": "BRETTON WOODS",
+            "trails": 103,
+            "peaks": 3,
+            "total_lifts": 9,
+            "summit_elevation": 3100,
+            "base_elevation": 1550,
+            "vertical_drop": 1500,
+            "skiable_top": 3050,
+            "skiable_acres": 464,
+            "snowfall_avg": 155,
+            "season_start": "Nov",
+            "season_end": "Apr",
+            "season_note": "Natural & Snowmaking",
+            "night_skiing": false,
+            "night_skiing_note": "",
+            "tubing": true,
+            "terrain_easy": 26,
+            "terrain_more": 46,
+            "terrain_advanced": 15,
+            "terrain_expert": 13,
+            "freestyle_parks": 1,
+            "glades_acres": 175,
+            "lifts_tram": 0,
+            "lifts_chondola": 0,
+            "lifts_gondola": 1,
+            "lifts_eightpack": 0,
+            "lifts_sixpack": 0,
+            "lifts_quad": 5,
+            "lifts_triple": 0,
+            "lifts_double": 0,
+            "lifts_surface": 3,
+            "hours": {
+                "monday":    { "open": 9,  "close": 16  },
+                "tuesday":   { "open": 9,  "close": 16  },
+                "wednesday": { "open": 9,  "close": 16  },
+                "thursday":  { "open": 9,  "close": 16  },
+                "friday":    { "open": 9,  "close": 16 },
+                "saturday":  { "open": 9, "close": 16 },
+                "sunday":    { "open": 9,  "close": 16  }
+            }
+        },
+
     
     "yawgoo": {
         "name": "Yawgoo Valley",
