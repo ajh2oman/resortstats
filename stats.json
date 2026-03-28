@@ -1258,7 +1258,7 @@
             "lifts_double": 1,
             "lifts_surface": 3,
             "hours": {
-                "monday":    { "closed": true };
+                "monday":    { "closed": true },
                 "tuesday":   { "open": 14,  "close": 19  },
                 "wednesday": { "open": 14,  "close": 19  },
                 "thursday":  { "open": 14,  "close": 19  },
