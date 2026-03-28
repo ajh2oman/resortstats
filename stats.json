@@ -817,6 +817,51 @@
             }
         },
 
+    "gunstock": {
+            "name": "gunstock",
+            "state": "New Hampshire",
+            "conditions_key": "GUNSTOCK",
+            "trails": 44,
+            "peaks": 1,
+            "total_lifts": 8,
+            "summit_elevation": 2300,
+            "base_elevation": 960,
+            "vertical_drop": 1340,
+            "skiable_top": 2300,
+            "skiable_acres": 227,
+            "snowfall_avg": 120,
+            "season_start": "Dec",
+            "season_end": "Apr",
+            "season_note": "Natural & Snowmaking",
+            "night_skiing": true,
+            "night_skiing_note": "(25 Trails)",
+            "tubing": true,
+            "terrain_easy": 15,
+            "terrain_more": 52,
+            "terrain_advanced": 31,
+            "terrain_expert": 2,
+            "freestyle_parks": 3,
+            "glades_acres": 45,
+            "lifts_tram": 0,
+            "lifts_chondola": 0,
+            "lifts_gondola": 0,
+            "lifts_eightpack": 0,
+            "lifts_sixpack": 0,
+            "lifts_quad": 3,
+            "lifts_triple": 2,
+            "lifts_double": 0,
+            "lifts_surface": 3,
+            "hours": {
+                "monday":    { "open": 9,  "close": 16  },
+                "tuesday":   { "open": 9,  "close": 20  },
+                "wednesday": { "open": 9,  "close": 20  },
+                "thursday":  { "open": 9,  "close": 20  },
+                "friday":    { "open": 9,  "close": 21 },
+                "saturday":  { "open": 9, "close": 21 },
+                "sunday":    { "open": 9,  "close": 16  }
+            }
+        },
+
     
     "yawgoo": {
         "name": "Yawgoo Valley",
