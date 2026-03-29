@@ -955,7 +955,7 @@
         "butternut": {
             "name": "ski butternut",
             "state": "Massachusetts",
-            "conditions_key": "SKI BUTTERNUT",
+            "conditions_key": "BUTTERNUT",
             "trails": 22,
             "peaks": 2,
             "total_lifts": 9,
